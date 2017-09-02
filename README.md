@@ -1,5 +1,5 @@
 
-# HosSpot Websit
+# HotSpot Websit
 Static website for HotSpot in the University of Zanjan
 
 ## Description
